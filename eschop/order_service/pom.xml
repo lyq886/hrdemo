@@ -53,23 +53,6 @@
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
-        <!--Feign的依赖-->
-        <dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-openfeign</artifactId>
-		</dependency>
-
-        <!--添加hystrix依赖-->
-        <dependency>
-                <groupId>org.springframework.cloud</groupId>
-                <artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
-            </dependency>
-
-
-
-
-
-
     </dependencies>
 
     <build>

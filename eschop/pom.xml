@@ -13,7 +13,6 @@
         <module>product_service</module>
         <module>order_service</module>
         <module>product_service_interface</module>
-        <module>api_gateway</module>
     </modules>
 
     <groupId>com.neu</groupId>

@@ -51,6 +51,7 @@
             <artifactId>product_service_interface</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
+
     </dependencies>
 
     <build>
